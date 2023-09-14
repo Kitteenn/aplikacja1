@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">aplikacja</string>
+    <string name="Bankdudu">aplikacja</string>
+    <string name="zaloguj">Zaloguj</string>
+    <string name="pin">PIN</string>
+    <string name="has_o">Hasło</string>
+    <string name="email">Email</string>
+    <string name="bank_dudu">Bank Dudu</string>
+    <string name="nie_pami_tasz_has_a">Nie pamiętasz hasła?</string>
+    <string name="za_konto">Załóż Konto</string>
 </resources>
